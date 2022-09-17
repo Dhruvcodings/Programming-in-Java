@@ -1,5 +1,5 @@
 import java.util.*;
-public class prime_number {
+public class decimal_binary {
     public static void dectobin(int decnum){
         int pow=0;
         int binnum=0;

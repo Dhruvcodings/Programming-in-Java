@@ -1,5 +1,5 @@
 import java.util.*;
-public class prime_number {
+public class binary_decimal {
     public static void bintodec(int binnum){
         int pow=0;
         int decnum=0;
